@@ -942,11 +942,419 @@
         "date": "8/10"
     },
     {
-        "quote": "",
-        "book": "",
-        "author":"",
-        "location": "",
-        "date": ""
+        "quote": "The number isn't dull at all. Its quite interesting. Its the largest three-digit number that equals the sum of the cubes of its digits.",
+        "book": "Archimedes Revenge",
+        "author":"Paul Hoffman",
+        "location": "MV",
+        "date": "8/10"
+    },
+    {
+        "quote": "He turned out the lights and went into Jem's room. He would be there all night, and he would be there when Jem waked up in the morning.",
+        "book": "To Kill A Mockingbird",
+        "author":"Harper Lee",
+        "location": "MV",
+        "date": "8/10"
+    },
+    {
+        "quote": "It comes to the now, late, as I wind this up. What it was those hippies were singing on the hilltop above the river. It was 'My darling clementine' a good song.",
+        "book": "Gringos",
+        "author":"Charles Portis",
+        "location": "NYC",
+        "date": "9/10"
+    },
+    {
+        "quote": "It was only 130 miles to Memphis, but I didn't go after her again.",
+        "book": "Dog of the South",
+        "author":"Charles Portis",
+        "location": "NYC",
+        "date": "9/10"
+    },
+    {
+        "quote": "As if the aire were a purgative, his valve opened. He breathed again, this time more deeply. The dull headache was lifting.",
+        "book": "Confederacy of Dunces",
+        "author":"Toole",
+        "location": "NYC",
+        "date": "10/10"
+    },
+    {
+        "quote": "She is a cute thing, said Vernell. I'm suprised you could pick up a girl that cute on a bus.",
+        "book": "Norwood",
+        "author":"Charles Portis",
+        "location": "NYC",
+        "date": "11/10"
+    },
+    {
+        "quote": "His hands follow, what he is.",
+        "book": "Giving Good Weight",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "11/10"
+    },
+    {
+        "quote": "I was wanting it to come a rain, he said. I wish I'd had my 1 hole back. I was wanting it to come a rain.",
+        "book": "Pieces of the Frame",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "12/10"
+    },
+    {
+        "quote": "And I said to her, Its a rock! Nothing ever happens to it.",
+        "book": "Irons in the Fire",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "12/10"
+    },
+    {
+        "quote": "And how damaging to the investment any major change in the industry's pattern could be. I concluded that other civilizations may well have died rich.",
+        "book": "The Curve of Binding Energy",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "12/10"
+    },
+    {
+        "quote": "One associates with one's ancestors at one's risk. I will never again be able to look a MacMillan in the eye.",
+        "book": "The Crofter and the Laird",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "12/10"
+    },
+    {
+        "quote": "Dominy said nothing. He just sat there drawing on a wed, dead cigar. Ten minutes later, however, in the dry and baking Arizona air, he struck a match and lighted the cigar again.",
+        "book": "Encounters with the Archdroid",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "12/10"
+    },
+    {
+        "quote": "For 20 million dollars, Los Angeles had returned the rock to the mountains. For twenty million dollars, they had built in Burro Canyon and edifice ten times as large as the largest pyramid in Giza.",
+        "book": "Control of Nature",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "1/11"
+    },
+    {
+        "quote": "I can't believe he can hit it that hard, I didn't even see the ball. Arthur is just playing too well. He's forcing me into errors. Games are five-two, fourth set.",
+        "book": "Levels of the Game",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "1/11"
+    },
+    {
+        "quote": "Going back to the helicopter, we walked beside a rustling stream, which might have been a trout stream in Vermont, full of boulders, pools, eddies and tumbling cascades. That wates is coming from the evaporator, Griffin said. It was inside Oranges a few minutes ago.",
+        "book": "Oranges",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "1/11"
+    },
+    {
+        "quote": "At the rate of a few hundred yards or even a mile or so each year, the permiter of the pines contracts.",
+        "book": "Pine Barrens",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "1/11"
+    },
+    {
+        "quote": "Once you come up with an idea you have to find a way to utilize it. You have to keep your creative juices working and do something with it. Otherwise, the idea is just a flash, and its gone.",
+        "book": "Inventors At Work",
+        "author":"Brawn",
+        "location": "NYC",
+        "date": "2/11"
+    },
+    {
+        "quote": "In hindsight, we do not know if we were performing a service or a disservice. Sometimes I think I might regret it. Yes. It's close to home.",
+        "book": "Rising from the Plains",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "3/11"
+    },
+    {
+        "quote": "The Drummond slaps the two books together and jams them in his brief case, side by side. Slowly, he climbs to the street level and crosses the empty square.",
+        "book": "Inherit the Wind",
+        "author":"Jerome Lawrence",
+        "location": "NYC",
+        "date": "3/11"
+    },
+    {
+        "quote": "Time and again, when I think of him, and such thoughts start running through my mind, I invariably find myself wishing that I were John McPhee.",
+        "book": "Table of Contents",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "4/11"
+    },
+    {
+        "quote": "He would have told me the story of the Sixth Borough, from the voice in the can at the end to the beggining, from 'I Love You' to Once upon a time. We would have been safe.",
+        "book": "Extremely Loud and Incredibly Close",
+        "author":"Foer",
+        "location": "NYC",
+        "date": "3/12"
+    },
+    {
+        "quote": "I remember Fred Brown, who lived in the Pine Barrens of the New Jersey Coastal Plain, remaking years ago outside his shanty. I never been nowhere where I liked it better than I do here.",
+        "book": "Silk Parachute",
+        "author":"McPhee",
+        "location": "NYC",
+        "date": "4/12"
+    },
+    {
+        "quote": "I take his hand, holding on tightly, preparing for the cameras, and dreading the moment when I will finally have to let him go.",
+        "book": "Hunger Games",
+        "author":"Collins",
+        "location": "NYC",
+        "date": "6/12"
+    },
+    {
+        "quote": "But Gale is not one to keep secrets from me. Katniss, there is no District Twelve.",
+        "book": "Catching Fire",
+        "author":"Collins",
+        "location": "NYC",
+        "date": "6/12"
+    },
+    {
+        "quote": "But there are much worse games to play.",
+        "book": "Mocking Jay",
+        "author":"Collins",
+        "location": "7/12",
+        "date": "NYC"
+    },
+    {
+        "quote": "Which car ranks second in importance. Because its story is so dramatic, and because its influence has been so lasting and pervasive, the fatally flawed, corvair gets my vote.",
+        "book": "Engines of Change",
+        "author":"Paul Ingrassia",
+        "location": "NYC",
+        "date": "8/12"
+    },
+    {
+        "quote": "That's the thing about mold. You can't see it's there. He paused. Pressed his middle finger against the wisp of hair that was stuck to his forehead. But it is.",
+        "book": "The Snowman",
+        "author":"Joe Nasbo",
+        "location": "NYC",
+        "date": "9/12"
+    },
+    {
+        "quote": "I thought of the first day and Pyle sitting beside me at the Continental, with his eye on the soda-fountain across the way. Everything had gone right with me since he had died, but still I wished there existed someone to whom I could say that I was sorry.",
+        "book": "The Quiet American",
+        "author":"Greene",
+        "location": "Sihanoukville, Cambodia",
+        "date": "9/12"
+    },
+    {
+        "quote": "The musical offerings is a fugue of fugues, a Tangled Hierarchy liek those of Escher and Godel, and intellectual construction which reminds me, in ways I cannot express, of the beautiful many- voiced fugue of the human mind. And that is why in my book the three strands of Godel, Escher, and Bainare woven into an eternal Golden Braid.",
+        "book": "Godel Escher Bach",
+        "author":"Douglas Hoffstader",
+        "location": "NYC",
+        "date": "9/12"
+    },
+    {
+        "quote": "She nodded and their hands, moved together. He wondered whether Mr. Stein had the contract in her pocket.",
+        "book": "Stamboul Train",
+        "author":"Graham Greene",
+        "location": "NYC",
+        "date": "10/12"
+    },
+    {
+        "quote": "Going down the stairs, the lieutenant said 'Have you really mined the building?' The captain grinnet at him. 'Have we really got six hundred men?' he asked.",
+        "book": "Once There Was a War",
+        "author":"John Steinbeck",
+        "location": "NYC",
+        "date": "10/12"
+    },
+    {
+        "quote": "It occured to me then that for the first time in as long as I could remember, I had absolutely no desire to log back into the OASIS.",
+        "book": "Ready Player One",
+        "author":"Ernest Cline",
+        "location": "NYC",
+        "date": "11/12"
+    },
+    {
+        "quote": "Still singing Loudly, not looking back, matching stride for stride, they descended into the valley.",
+        "book": "Hyperion",
+        "author":"Dan Simmons",
+        "location": "NYC",
+        "date": "12/12"
+    },
+    {
+        "quote": "THere must be something about this code that you haven't explained yet.",
+        "book": "Turrings Cathedral",
+        "author":"George Dyson",
+        "location": "NYC",
+        "date": "12/12"
+    },
+    {
+        "quote": "And always Ender carried with him a dry white cocoon, looking for the world where the hive- queen could awaken and thrive in peace. He looked a long time.",
+        "book": "Enders Game",
+        "author":"Orsen Scott Card",
+        "location": "NYC",
+        "date": "1/13"
+    },
+    {
+        "quote": "And at the ship rising above like a perfect, ebony arrow shot from some God's bow.",
+        "book": "Fall of Hyperion",
+        "author":"Dan Simmons",
+        "location": "NYC",
+        "date": "2/13"
+    },
+    {
+        "quote": "It is clear that we build for the day and not for the ages, and what we build has a community and functional rather than individual character.",
+        "book": "The Idea Factory: Bell Labs",
+        "location": "NYC",
+        "date": "3/13"
+    },
+    {
+        "quote": "On good day, Attila can convince himself it was worth it.",
+        "book": "The Ballad of the Whiskey Robber",
+        "location": "NYC",
+        "date": "4/13"
+    },
+    {
+        "quote": "The whole field of quantum information is certainly in its earliest infancy. Hopefully, this book will inspire you to be one of the pioneers of the coming quantum information era.",
+        "book": "Exploring Quantum Physics Through Hands on Process",
+        "location": "NYC",
+        "date": "6/13"
+    },
+    {
+        "quote": "While we, Chani, we who carry the name of concubine- history will call us wives.",
+        "book": "DUNE",
+        "location": "NYC",
+        "date": "7/13"
+    },
+    {
+        "quote": "He looked up grinning. Strike, he said clearly. My name is Cormoran Strike.",
+        "book": "Cuckoo's Calling",
+        "author":"Robert Galibrath",
+        "location": "NYC",
+        "date": "8/13"
+    },
+    {
+        "quote": "All I wanted to do was fly around for a while in 71-Hotel.",
+        "book": "Flight of Passage",
+        "author":"Buck",
+        "location": "NYC",
+        "date": "9/13"
+    },
+    {
+        "quote": "The tar pit of software engineering will continue to be sticky for a long time to come. One can expect the human race to continue attempting systems just within or just beyond our reach: and software systems perhaps the most intricate of mens handiworks.",
+        "book": "The Mythical Man Month",
+        "author":"Brooks",
+        "location": "NYC",
+        "date": "9/13"
+    },
+    {
+        "quote": "For the first time in his life, Jack Ryan fell asleep in an Airplane.",
+        "book": "The Hunt for Red October",
+        "author":"Tom Clancy",
+        "location": "NYC",
+        "date": "11/13"
+    },
+    {
+        "quote": "In practice, this means seeking out the cracks where individual agency and the love of knowledge can be realized today, in one's own life.",
+        "book": "Shop as Soulcraft",
+        "location": "NYC",
+        "date": "1/14"
+    },
+    {
+        "quote": "The coming years will be exciting times for operating system designers.",
+        "book": "Modern Operating Systems",
+        "author":"A.S. Tenenbaum",
+        "location": "NYC",
+        "date": "2/14"
+    },
+    {
+        "quote": "Henry Ward Beecher's advice a century ago to 'multiply picnics' is not entirely ridiculous today. We should de this, ironically, not because it will be good for America-thought it will be- but because it will be good for us.",
+        "book": "Bowling Alone",
+        "author":"Robert Putnam",
+        "location": "NYC",
+        "date": "5/14"
+    },
+    {
+        "quote": "For a long time there is really nothing to be seen except steam, but after Golgatha's been burning for an hour or two, it becomes possible to see that underneath the shallow water, spreading down the valley flour, indeed right around the isolated boulder where Randy's Percled, is a bright, thick river of gold.",
+        "book": "Cryptonomicon",
+        "author":"Neal Stephenson",
+        "location": "NYC",
+        "date": "7/14"
+    },
+    {
+        "quote": "Then with a grin and a wave, he was gone.",
+        "book": "The Silkworm",
+        "author":"Robert Galibraith",
+        "location": "Turkey",
+        "date": "7/14"
+    },
+    {
+        "quote": "And I add my own love to the history of people who have loved beautiful things, and looked out for them, and pulled them from the fire, and sought them when they were lost, and tried to preserve them and save them while passing them along literally from hand to hand, out brilliantly from the wreck of time to the next generation of lovers, and the next.",
+        "book": "The Goldfinch",
+        "author":"Donna Tartt",
+        "location": "Turkey",
+        "date": "8/14"
+    },
+    {
+        "quote": "Sterling would not be the same. It would never again command the same amount of faith around the world.",
+        "book": "Adventures: Twelve Classic Tales form teh world of wall street",
+        "author":"John Brooks",
+        "location": "NYC",
+        "date": "9/14"
+    },
+    {
+        "quote": "Pried loose from the balustrade at last by a more compelling note from the belfries, I hastened to follow. I didnt want to be late.",
+        "book": "A Time of Gifts",
+        "author":"Patrick Fermor",
+        "location": "NYC",
+        "date": "10/14"
+    },
+    {
+        "quote": "I had absolutely no desire to log back into the OASIS.",
+        "book": "Ready Player One",
+        "author":"Earnest Cline",
+        "location": "NYC",
+        "date": "10/14"
+    },
+    {
+        "quote": "Once a company is aligned, managers will spend less time stressing over what their employees are up to and more time on the future of the business. Employees will know what to do and have the green light to do it. Customers will be surprised and delighted with what they're getting. Financial Results will follow.",
+        "book": "The Power of Alignment",
+        "author":"Labovitz and Rosanky",
+        "location": "NYC",
+        "date": "12/14"
+    },
+    {
+        "quote": "The air was vitreous, intractable, crystalline. The whole world seemed inside-out.",
+        "book": "A Time To Keep Silence",
+        "author":"Patrick Leigh Fermor",
+        "location": "NYC",
+        "date": "12/14"
+    },
+    {
+        "quote": "We believe that the present renewed enthusiasm for bicycling is an encouraging sign of a saner future.",
+        "book": "Bicycling Science",
+        "author":"Rowland Wilson",
+        "location": "NYC",
+        "date": "12/14"
+    },
+    {
+        "quote": "This is the happiest day of my life.",
+        "book": "The Martian",
+        "author":"Andy Weir",
+        "location": "NYC",
+        "date": "1/15"
+    },
+    {
+        "quote": "So, in closing, I just say peace to all those engaged in the struggle to fulfill their dreams.",
+        "book": "The Hard Things about Hard Things",
+        "author":"Ben Horrowitz",
+        "location": "NYC",
+        "date": "1/15"
+    },
+    {
+        "quote": "This innovation will come from peopel who are able to link beauty to engineering, humanity to technology, and poetry to processor. In other words, it will come from the spiritual bens of Ada Lovelace creators who can flourish when the arts intersect with the sciences and who have a rebellious sense of order that opens them to the beauty of both.",
+        "book": "The innovators",
+        "author":"Walter Isaacson",
+        "location": "NYC",
+        "date": "3/15"
+    },
+    {
+        "quote": "Only by seeing over world anew, as fresh and strange as it was to the ancients, who saw it first, can we both re-create it and preserve it.",
+        "book": "Zero to One",
+        "author":"Peter Thiel",
+        "location": "NYC",
+        "date": "4/15"
     },
     {
         "quote": "The ground was like iron with sharp rocks stickup up out of it. We started to blow up our air-beds. God, you must be a couple of pansies, said Thesiger",
