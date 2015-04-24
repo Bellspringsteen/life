@@ -1362,5 +1362,12 @@
         "author":"Eric Newby",
         "location": "NYC",
         "date": "4/13/15"
+    },
+    {
+        "quote": "How wild it was, to let it be.",
+        "book": "Wild: From Lost to Found",
+        "author":"Cheryl Strayed",
+        "location": "NYC",
+        "date": "4/15"
     }
 ]
