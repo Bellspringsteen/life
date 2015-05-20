@@ -1369,5 +1369,12 @@
         "author":"Cheryl Strayed",
         "location": "NYC",
         "date": "4/15"
+    },
+    {
+        "quote": "You didnt need to do that, Howl said. I dont mind as long as I can come and go, Calcifer said. Besides, its raining out there in Market Chipping",
+        "book": "Howls Moving Castle",
+        "author":"Diana Wynne Jones",
+        "location": "NYC",
+        "date": "5/15"
     }
 ]
