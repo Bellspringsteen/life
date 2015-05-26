@@ -1376,5 +1376,12 @@
         "author":"Diana Wynne Jones",
         "location": "NYC",
         "date": "5/15"
+    },
+    {
+        "quote": "On July 20, 1969, when Neil Armstrong, another American born and raised in sourhwestern Ohio, stepped onto the moon, he carried with him, in tribute to the Wright Brothers, a small swatch of the muslin from a wing of their 1903 Flyer.",
+        "book": "The Wright Brothers",
+        "author":"David McCullough",
+        "location": "NYC",
+        "date": "5/15"
     }
 ]
