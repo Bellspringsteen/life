@@ -1447,7 +1447,20 @@
         "author":"Thomas Pickety",
         "location": "NYC",
         "date": "10/15"
+    },
+    {
+        "quote": "The first twelve years of the new millennium have been rough, with one unpredicted disaster after another. May we arise from the ashes of these beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.",
+        "book":"The Signal and the Noise",
+        "author":"Nate Silver",
+        "location": "NYC",
+        "date": "12/15"
+    },
+    {
+        "quote": "The first twelve years of the new millennium have been rough, with one unpredicted disaster after another. May we arise from the ashes of these beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.",
+        "book":"Lafayette in the Somewhat United States",
+        "author":"Sarah Vowell",
+        "location": "NYC",
+        "date": "12/15"
     }
     
-
 ]
