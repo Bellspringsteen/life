@@ -1461,6 +1461,13 @@
         "author":"Sarah Vowell",
         "location": "NYC",
         "date": "12/15"
+    },
+    {
+        "quote": "So he would stay. He had to. Otherwise who would be here when the King came again?",
+        "book":"A Hologram for the King",
+        "author":"Dave Eggers",
+        "location": "NYC",
+        "date": "12/15"
     }
     
 ]
