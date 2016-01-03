@@ -1468,6 +1468,13 @@
         "author":"Dave Eggers",
         "location": "NYC",
         "date": "12/15"
+    },
+    {
+        "quote": "Don't hurry Fan. Stay put for now. We'll find a way. You need not come back for us.",
+        "book":"On Such a Full Sea",
+        "author":"Chang-Rae lee",
+        "location": "NYC",
+        "date": "1/16"
     }
     
 ]
