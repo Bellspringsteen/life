@@ -1482,6 +1482,13 @@
         "author":"Jonathan Safran Foer",
         "location": "NYC",
         "date": "1/16"
+    },
+    {
+        "quote": "A sailor leant over the rail and in a moment his hawser was skimming through the gulls like a lasso",
+        "book":"Between the woods and the water",
+        "author":"Patrick Leigh Fermor",
+        "location": "NYC",
+        "date": "2/16"
     }
     
 ]
