@@ -1517,6 +1517,13 @@
         "author":"Christopher McDougall",
         "location": "NYC",
         "date": "3/16"
+    },
+    {
+        "quote": "If we find the answer to that, it would be the ultimate triumph of human reason-- for then we would know the mind of god.",
+        "book":"A Brief History Of Time",
+        "author":"Stephen Hawkings",
+        "location": "NYC",
+        "date": "4/16"
     }
     
 ]
