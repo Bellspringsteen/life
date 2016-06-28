@@ -1545,6 +1545,13 @@
         "author":"Paul Theroux",
         "location": "NYC",
         "date": "6/16"
+    },
+    {
+        "quote": "Once upon a time, there was a wolf called Romeo,. Together, we watch him trot across the lake and fade into twilight. And we remember.",
+        "book":"A Wolf Called Romeo",
+        "author":"Nick Jans",
+        "location": "NYC",
+        "date": "6/16"
     }
     
 ]
