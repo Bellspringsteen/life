@@ -1594,6 +1594,13 @@
         "author":"James Donnovan",
         "location": "NYC",
         "date": "9/16"
+    },
+    {
+        "quote": "That brings me to the end of my road. My hope is that it can be the beginning of yours.",
+        "book":"Crossing the Chasm",
+        "author":"Geoffrey Moore",
+        "location": "NYC",
+        "date": "10/16"
     }
     
 ]
