@@ -1608,6 +1608,13 @@
         "author":"Isaac Asimov",
         "location": "NYC",
         "date": "11/16"
+    },
+    {
+        "quote": "The container proved to be such a dynamic force that almost nothing it touched was left unchanged, and those changes ofter were not as predicted.",
+        "book":"The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger",
+        "author":"Marc Levinson",
+        "location": "NYC",
+        "date": "11/16"
     }
     
 ]
