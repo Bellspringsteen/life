@@ -1622,6 +1622,13 @@
         "author":"Robert A. Heinlein",
         "location": "NYC",
         "date": "12/16"
+    },
+    {
+        "quote": "If we destroy ourselves, if we ruin Earth before we're ready to leave our home planet ... well, it could be a long, long time before a creature from another species looks up at its planet's night sky and asks 'Where is Everybody?'",
+        "book":"If the Universe Is Teeming with Aliens ... WHERE IS EVERYBODY?: Fifty Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life",
+        "author":"Stephen Webb",
+        "location": "NYC",
+        "date": "12/16"
     }
     
 ]
