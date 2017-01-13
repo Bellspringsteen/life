@@ -1629,6 +1629,13 @@
         "author":"Stephen Webb",
         "location": "NYC",
         "date": "12/16"
+    },
+    {
+        "quote": "There are no formulas or guarantees. There are, however, models.",
+        "book":"Consider the Lobster: And other essays",
+        "author":"David Foster Wallace",
+        "location": "NYC",
+        "date": "1/17"
     }
     
 ]
