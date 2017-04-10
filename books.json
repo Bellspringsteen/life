@@ -1678,6 +1678,13 @@
         "author":"Walter Isaacson",
         "location": "NYC",
         "date": "3/17"
+    },
+    {
+        "quote": "It is not fair to ask the technologist, not only to provide artifacts which work, but also to provide beauty, even in common street and above all to provide fun.",
+        "book":"Structures: Or Why Things Don't Fall Down",
+        "author":"J.E. Gordon",
+        "location": "NYC",
+        "date": "4/17"
     }
     
 ]
