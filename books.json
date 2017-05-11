@@ -1699,6 +1699,13 @@
         "author":"Thomas Friedman",
         "location": "NYC",
         "date": "4/17"
+    },
+    {
+        "quote": "But there are also these mental snapshots, these instantanees of fugitive life, these curving banisters and lacquered portals, these cold, empty quays beside the Seine where someone under a bridge is playing a saxophone - all the priceless but free memories only waiting for a flaneur to make them his own.",
+        "book":"The Flaneur: A Storll through the paradoxes of paris",
+        "author":"Edmund White",
+        "location": "NYC",
+        "date": "4/17"
     }
    
 ]
