@@ -1790,7 +1790,13 @@
         "author":"Daniel kahneman",
         "location": "MV",
         "date": "8/17"
+    },
+    {
+        "quote": "The transformation of the post office department into the United States Postal Service seemed to erase the last vestiges of their awareness of the dynamic institution.",
+        "book":"How the post office created America",
+        "author":"Winifred Gallagher",
+        "location": "NYC",
+        "date": "9/17"
     }
     
-   
 ]
