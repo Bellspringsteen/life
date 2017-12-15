@@ -1818,6 +1818,13 @@
         "author":"Jared Diamond",
         "location": "NYC",
         "date": "11/17"
+    },
+    {
+        "quote": "For a succesful technology, reality must take precedence over public relations, for nature cannot be fooled.",
+        "book":"Genius:The Life and Science of Richard Feynman",
+        "author":"James Gleick",
+        "location": "NYC",
+        "date": "12/17"
     }
     
 ]
