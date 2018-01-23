@@ -1825,6 +1825,21 @@
         "author":"James Gleick",
         "location": "NYC",
         "date": "12/17"
+    },
+    {
+        "quote": "The sources of slow productivity growth, rising inequality,, and declining hours of work per person rest on fundamental causes that will be difficult to offset.",
+        "book":"Rise and fall of American growth",
+        "author":"Robert Gordon",
+        "location": "TX",
+        "date": "1/18"
+    },
+    {
+        "quote": "It’s the greatest little city in the worlds.",
+        "book":"Artemis",
+        "author":"Andy weir",
+        "location": "NYC",
+        "date": "1/18"
     }
+
     
 ]
