@@ -1874,6 +1874,13 @@
         "author":"Jane Jacobs",
         "location": "London",
         "date": "5/18"
+    },
+    {
+        "quote": "Nearly sixty years after Walter O'Malley broke my heart, and forty years after starting a lifelong education in urban transportation, I was part of another revolution.",
+        "book":"Street smart",
+        "author":"Sam Schwartz",
+        "location": "NYC",
+        "date": "6/18"
     }
 
 ]
