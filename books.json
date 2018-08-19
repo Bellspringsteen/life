@@ -1895,5 +1895,12 @@
         "author":"Jhumpa lahiri ",
         "location": "MV",
         "date": "8/18"
+    },
+    {
+        "quote": "Yeah, home seems about right.",
+        "book":"Snow Crash",
+        "author":"Neal Stephenson",
+        "location": "MV",
+        "date": "8/18"
     }
 ]
