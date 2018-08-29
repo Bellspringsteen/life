@@ -1902,5 +1902,19 @@
         "author":"Neal Stephenson",
         "location": "MV",
         "date": "8/18"
+    },
+    {
+        "quote": "The african faces a long and difficult road and he will need guidance. But he will treat it fast because he will walk upright.",
+        "book":"The Black Jacobins",
+        "author":"CLR James",
+        "location": "MV",
+        "date": "8/18"
+    },
+    {
+        "quote": "Jasper and I leave the post office, turn left, and head toward home for a quiet Friday night.",
+        "book":"A year of Living Biblically ",
+        "author":"AJ Jacobs",
+        "location": "MV",
+        "date": "8/18"
     }
 ]
