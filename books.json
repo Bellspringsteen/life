@@ -1923,5 +1923,13 @@
         "author":"Nikos Kazantzakis",
         "location": "NYC",
         "date": "9/18"
+    },
+    {
+        "quote": "It was everything I ever wanted.",
+        "book":"Hillbilly Elegy",
+        "author":"J.D. Vance",
+        "location": "NYC",
+        "date": "9/18"
     }
+
 ]
