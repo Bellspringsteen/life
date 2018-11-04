@@ -1937,6 +1937,13 @@
         "author":"Christopher McDougall",
         "location": "NYC",
         "date": "10/18"
+    },
+    {
+        "quote": "They think I'm a wizard.",
+        "book":"Cuckoo's egg",
+        "author":"Clifford Stoll",
+        "location": "NYC",
+        "date": "11/18"
     }
 
 ]
