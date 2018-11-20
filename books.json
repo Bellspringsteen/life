@@ -1939,16 +1939,16 @@
         "date": "10/18"
     },
     {
-        "quote": "I begin to make a list",
-        "book":"Shoe dog",
-        "author":"Phil Knight",
+        "quote": "They think I'm a wizard.",
+        "book":"Cuckoo's egg",
+        "author":"Clifford Stoll",
         "location": "NYC",
         "date": "11/18"
     },
     {
-        "quote": "They think I'm a wizard.",
-        "book":"Cuckoo's egg",
-        "author":"Clifford Stoll",
+        "quote": "I begin to make a list",
+        "book":"Shoe dog",
+        "author":"Phil Knight",
         "location": "NYC",
         "date": "11/18"
     }
