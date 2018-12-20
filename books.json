@@ -1951,6 +1951,13 @@
         "author":"Phil Knight",
         "location": "NYC",
         "date": "11/18"
+    },
+    {
+        "quote": "The last words he wrote were 'The emperor said to me, I'",
+        "book":"Travels in Siberia",
+        "author":"Ian Frazier",
+        "location": "NYC",
+        "date": "12/18"
     }
 
 ]
