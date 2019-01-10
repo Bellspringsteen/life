@@ -1958,6 +1958,13 @@
         "author":"Ian Frazier",
         "location": "NYC",
         "date": "12/18"
+    },
+    {
+        "quote": "At the same time, the SRE team should also have comprehensive knowledge of the systems -- how they operate, how they fail, and how to respond to failures-- that come from operating them day to day.",
+        "book":"SRE Book",
+        "author":"Beyer et al",
+        "location": "NYC",
+        "date": "1/19"
     }
 
 ]
