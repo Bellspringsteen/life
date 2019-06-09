@@ -1979,6 +1979,13 @@
         "author":"Nadsim Nicholas Taleb",
         "location": "NYC",
         "date": "5/19"
+    },
+    {
+        "quote": "For the first time in his life, Jack Ryan fell asleep in an Airplane.",
+        "book": "The Hunt for Red October",
+        "author":"Tom Clancy",
+        "location": "MV",
+        "date": "6/19"
     }
 
 ]
