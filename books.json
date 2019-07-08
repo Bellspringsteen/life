@@ -1993,6 +1993,27 @@
         "author":"John Grisham ",
         "location": "NYC",
         "date": "6/19"
+    },
+    {
+        "quote": "Think that for all time, all conflicts are finally evitable.Only the machines, from now on,are inevitable. ",
+        "book": "I,Robot",
+        "author":"Isaac Asimov",
+        "location": "MV",
+        "date": "7/19"
+    },
+    {
+        "quote": "Of course, I might be wrong.",
+        "book": "Just for fun: the story of an accidental revolutionary",
+        "author":"Linus Torvalds",
+        "location": "MV",
+        "date": "7/19"
+    },
+    {
+        "quote": "Though Sol himself is gone, the work he did lived on- responsible for an octillion bits( and counting) across the digital world. Farewell, Sol. And on behalf of all of us, thanks for all those cleverly created bits.",
+        "book": "Idea Makers",
+        "author":"Stepehn Wolfram",
+        "location": "MV",
+        "date": "7/19"
     }
 
 ]
