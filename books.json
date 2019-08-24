@@ -2049,6 +2049,20 @@
         "author":"Richard Askwith",
         "location": "MV",
         "date": "8/19"
+    },
+    {
+        "quote": "So we really can believe in American business as something that, at it's best, represents many of humankinds Hughes value.",
+        "book": "Big business",
+        "author":"Tyler Cowen",
+        "location": "MV",
+        "date": "8/19"
+    },
+    {
+        "quote": "While many DevOps success stories highlight the fantastic grassroots efforts of the technical teams involved, our experience and our research shows that technology transformations benefit from truly engaged and transformational leaders who can support and amplify the work of their team.",
+        "book": "Accelerate",
+        "author":"Forsgren PHD",
+        "location": "MV",
+        "date": "8/19"
     }
 
 ]
