@@ -2073,10 +2073,16 @@
     },
     {
         "quote": "No stability anywhere. But still, he concluded, the wine is cheap and the people dont change.",
-        "book": "The Travellers Trea",
+        "book": "The Travellers Tree",
         "author":"Patrick Leigh Fermor",
         "location": "NYC",
         "date": "10/19"
+    },
+    {
+        "quote": "Our modern world depends on mathematics and, when things go wrong, it should serve as a sobering reminder that we need to keep an eye on the hot cheese but also remind us of all the maths which work faultlessly around us.",
+        "book": "Humble Pi: a comedy of math errors",
+        "author":"Matt Parker",
+        "location": "NYC",
+        "date": "10/19"
     }
-
 ]
