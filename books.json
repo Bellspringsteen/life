@@ -2084,5 +2084,12 @@
         "author":"Matt Parker",
         "location": "NYC",
         "date": "10/19"
+    },
+    {
+        "quote": "We recognize the same balls being dropped over and over, even by those of great ability and determination. We know the patterns. We see the costs. Its time to try something else. Try a checklist.",
+        "book": "The Checklist Manifesto",
+        "author":"Atul Gawande",
+        "location": "NYC",
+        "date": "11/19"
     }
 ]
