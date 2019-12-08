@@ -2119,5 +2119,12 @@
         "author":"Robert Heinlein",
         "location": "NYC",
         "date": "12/19"
+    },
+    {       
+        "quote": "For thousands of years there wasn’t much improvement in goods production, either, but that changed with the Industrial Revolution. We may be on the verge of a service revolution brought on by robots and artificial intelligence. Growth is always uneven.",
+        "book": "why are the prices so damn high",
+        "author":"Tabarrok and Helland",
+        "location": "NYC",
+        "date": "12/19"
     }
 ]
