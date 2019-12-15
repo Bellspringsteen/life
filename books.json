@@ -2126,5 +2126,12 @@
         "author":"Tabarrok and Helland",
         "location": "NYC",
         "date": "12/19"
+    },
+    {       
+        "quote": "The universe begins and ends with zero.",
+        "book": "zero",
+        "author":"Charles seife",
+        "location": "NYC",
+        "date": "12/19"
     }
 ]
