@@ -2133,5 +2133,12 @@
         "author":"Charles seife",
         "location": "NYC",
         "date": "12/19"
+    },
+    {       
+        "quote": "His fear pays off. I tip him extravagantly.",
+        "book": "Take the Cannoli: Stories from the new world",
+        "author":"sarah vowell",
+        "location": "NYC",
+        "date": "12/19"
     }
 ]
