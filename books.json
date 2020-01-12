@@ -2140,5 +2140,12 @@
         "author":"sarah vowell",
         "location": "NYC",
         "date": "12/19"
+    },
+    {       
+        "quote": "The only certainty is that the chances of succeeding in the unprecedented quest to create a new energy system compatible with the long-term survival of high-energy civilization remain uncertain. Given our degree of understanding, the challenge may not be relatively more forbidding than overcoming a number of barriers we have surmounted in the past. But understanding, no matter, how impressive, will not be enough. What is needed is a commitment to change, so we could say with Senancour (1770-1846),Man perisheth. That may be, but let us struggle even though we perish; and if nothing is to be our portion; let it not come to us as a just reward.",
+        "book": "Energy and Civilization",
+        "author":"Vaclav Smil",
+        "location": "NYC",
+        "date": "1/2020"
     }
 ]
