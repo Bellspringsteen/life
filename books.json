@@ -2147,5 +2147,12 @@
         "author":"Vaclav Smil",
         "location": "NYC",
         "date": "1/2020"
+    },
+    {       
+        "quote": "Theres no place to go. There's the ocean to stop you. There's a line of old men along the shore hating the ocean for stoping them.",
+        "book": "The Red Pony",
+        "author":"John Steinbeck",
+        "location": "NYC",
+        "date": "1/2020"
     }
 ]
