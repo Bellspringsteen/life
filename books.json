@@ -2154,5 +2154,12 @@
         "author":"John Steinbeck",
         "location": "NYC",
         "date": "1/2020"
+    },
+    {       
+        "quote": "The catastrophe of the third Reich had not brought about the extinction of Germany, but what it had done was to draw the curtain on the classic era of European politics. Sixty years later, what else there might be to politics in Europe beyond the tiresome squabbles of discontented affluence remains an open question.",
+        "book": "The Wages of Destruction",
+        "author":"Adam Tooze",
+        "location": "NYC",
+        "date": "2/2020"
     }
 ]
