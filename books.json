@@ -2167,6 +2167,13 @@
         "book": "Tribe",
         "author":"Sebastian Junger",
         "location": "NYC",
-        "date": "2/2020"
+        "date": "3/2020"
+    },
+    {       
+        "quote": "You must live before you can die. But you must die before you can live.",
+        "book": "Be Here Now",
+        "author":"Ram Das",
+        "location": "NYC",
+        "date": "3/2020"
     }
 ]
