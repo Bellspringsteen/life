@@ -2175,5 +2175,12 @@
         "author":"Ram Das",
         "location": "NYC",
         "date": "3/2020"
+    },
+    {       
+        "quote": "Science ran too far ahead of us too quickly, and the people got lost in a mechanical wilderness, like children making over pretty things, gadgets, helicopters, rockets; emphazising machines instead of how to run the machines",
+        "book": "The Martian Chronicles",
+        "author":"Ray Bradbury",
+        "location": "NYC",
+        "date": "3/2020"
     }
 ]
