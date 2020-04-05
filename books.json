@@ -2182,5 +2182,12 @@
         "author":"Ray Bradbury",
         "location": "NYC",
         "date": "3/2020"
+    },
+    {       
+        "quote": "Somehow it happened. Somehow I let it. Or else it happened despite me. In the tned I find it doesn't matter",
+        "book": "And now we have everything",
+        "author":"Meaghan O'Connell",
+        "location": "NYC",
+        "date": "4/2020"
     }
 ]
