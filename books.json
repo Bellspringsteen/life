@@ -2196,5 +2196,12 @@
         "author":"Stephen King",
         "location": "NYC",
         "date": "4/2020"
+    },
+    {       
+        "quote": "Now he felt whole. He was ready to go home.",
+        "book": "The boys in the boat",
+        "author":"Daniel James brown",
+        "location": "NYC",
+        "date": "5/2020"
     }
 ]
