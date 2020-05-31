@@ -2203,5 +2203,12 @@
         "author":"Daniel James brown",
         "location": "NYC",
         "date": "5/2020"
+    },
+    {       
+        "quote": "Statistical science plays an important role in all our lives, and is constantly chaning in response to the increasing quantity and depth of data becomind available.",
+        "book": "The Art of Statistics",
+        "author":"David Spiegelhalter",
+        "location": "NYC",
+        "date": "5/2020"
     }
 ]
