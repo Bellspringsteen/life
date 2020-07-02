@@ -2217,5 +2217,12 @@
         "author":"Ben Westhoff",
         "location": "NYC",
         "date": "6/2020"
+    },
+    {       
+        "quote": "But he would think of something",
+        "book":"2001: A Space Odyssey",
+        "author":"Arthur C Clarke",
+        "location": "NYC",
+        "date": "7/2020"
     }
 ]
