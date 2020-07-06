@@ -2224,5 +2224,12 @@
         "author":"Arthur C Clarke",
         "location": "NYC",
         "date": "7/2020"
+    },
+    {       
+        "quote": "As I said at the start, the world is full of surprises. And maybe, in the end, that's the most important lesson I learned from the animals and their trainers.",
+        "book":"What Shamu taught me about life, live and marriage",
+        "author":"Amy Sutherland",
+        "location": "NYC",
+        "date": "7/2020"
     }
 ]
