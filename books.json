@@ -2231,5 +2231,12 @@
         "author":"Amy Sutherland",
         "location": "NYC",
         "date": "7/2020"
+    },
+    {       
+        "quote": "And there in the corner, at a table for two, her hair tinged with gray, the willowy woman waited.",
+        "book":"A gentleman in Moscow",
+        "author":"Amor Towles",
+        "location": "NYC",
+        "date": "7/2020"
     }
 ]
