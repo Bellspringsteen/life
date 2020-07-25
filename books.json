@@ -2245,5 +2245,12 @@
         "author":"Bob Drury and Tom Calvin",
         "location": "NYC",
         "date": "7/2020"
+    },
+    {       
+        "quote": "to the everlasting glory of the infantry",
+        "book":"Starship troopers",
+        "author":"Robert Heinlein",
+        "location": "NYC",
+        "date": "7/2020"
     }
 ]
