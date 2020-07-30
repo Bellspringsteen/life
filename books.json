@@ -2252,5 +2252,12 @@
         "author":"Robert Heinlein",
         "location": "NYC",
         "date": "7/2020"
+    },
+    {       
+        "quote": "Tell the Spartans, strangers passing by, that here obedient to their laws we lie.",
+        "book":"Gates of Fire",
+        "author":"Steven Pressfield",
+        "location": "NYC",
+        "date": "7/2020"
     }
 ]
