@@ -2259,5 +2259,12 @@
         "author":"Steven Pressfield",
         "location": "NYC",
         "date": "7/2020"
+    },
+    {       
+        "quote": "At the end, lets raise a glass to using data where its useful, to making the right decisions for our families, to doing our best, and-sometimes- to just trying not to think about it.",
+        "book":"cribsheet",
+        "author":"Emily Oster",
+        "location": "NYC",
+        "date": "8/2020"
     }
 ]
