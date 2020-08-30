@@ -2266,5 +2266,12 @@
         "author":"Emily Oster",
         "location": "NYC",
         "date": "8/2020"
+    },
+    {       
+        "quote": "Kick the habit- completely. Instead read long background articles and books. Yes, nothing beats books for understanding the world.",
+        "book":"The art of thinking clearly",
+        "author":"Rolf Dobelli",
+        "location": "NYC",
+        "date": "8/2020"
     }
 ]
