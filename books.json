@@ -2287,5 +2287,12 @@
         "author":"Frederick Forsyth",
         "location": "NYC",
         "date": "9/2020"
+    },
+    {       
+        "quote": "There is a special sadness in a achievement, in the knowledge that a long-desired goal has been attained at last, and that life must now be shaped toward new ends. Alvin knew thta sadness as he wandered alone through the forests and fields of Lys. Not even Hilvar accompanied him, for there are times when man must be apart even from his closest friends",
+        "book":"The City and the Stars",
+        "author":"Arthur C Clarke",
+        "location": "NYC",
+        "date": "9/2020"
     }
 ]
