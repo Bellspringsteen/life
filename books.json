@@ -2294,5 +2294,12 @@
         "author":"Arthur C Clarke",
         "location": "NYC",
         "date": "9/2020"
+    },
+    {       
+        "quote": "I collected a few men and at once started to fire some good old British volleys into the scrub.",
+        "book":"The defense of Jisr al-Doreaa: With E.D. Swintons The defence of Duffers Drift",
+        "author":"Michael L Burgoyne",
+        "location": "NYC",
+        "date": "9/2020"
     }
 ]
