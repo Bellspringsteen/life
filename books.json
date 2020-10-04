@@ -2308,5 +2308,12 @@
         "author":"Phillip K Dick",
         "location": "NYC",
         "date": "9/2020"
+    },
+    {       
+        "quote": "And two chainwheels and twelve gears would have been quite sufficient. Next time, I was about to say to Wanda, but I just managed to stop myself.",
+        "book":"Round ireland in low gear",
+        "author":"Eric newby",
+        "location": "NYC",
+        "date": "10/2020"
     }
 ]
