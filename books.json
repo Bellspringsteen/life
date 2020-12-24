@@ -2329,5 +2329,12 @@
         "author":"Irene Yuan Sun",
         "location": "NYC",
         "date": "10/2020"
+    },
+    {       
+        "quote": "Life was such a wheel that no man could stand upon it for long. And it always, at the end, came round to the same place.",
+        "book":"The Stand",
+        "author":"Stephen King",
+        "location": "NYC",
+        "date": "12/2020"
     }
 ]
