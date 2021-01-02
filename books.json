@@ -2336,5 +2336,12 @@
         "author":"Stephen King",
         "location": "NYC",
         "date": "12/2020"
+    },
+    {       
+        "quote": "I believe that the concepts in this book could make an impact upon the marriages and families of our country.",
+        "book":"The 5 love languages",
+        "author":"Gary Chapman ",
+        "location": "MV",
+        "date": "1/2021"
     }
 ]
