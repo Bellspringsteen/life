@@ -2371,5 +2371,12 @@
         "author":"Shaun Gallagher",
         "location": "NYC",
         "date": "2/2021"
+    },
+    {       
+        "quote": "'Okay,baby, hold tight', said Zaphod.' We'll take in a quick bite at the resturant at the end of the universe'",
+        "book":"The Hitchhikers guide to the galaxy",
+        "author":"Douglas Adams",
+        "location": "NYC",
+        "date": "2/2021"
     }
 ]
