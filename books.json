@@ -2378,5 +2378,12 @@
         "author":"Douglas Adams",
         "location": "NYC",
         "date": "2/2021"
+    },
+    {       
+        "quote": "The only dionysus we can indentify him with is the one torn into innumerable agonized fragements",
+        "book":"Nietzsche: A Very Short Introduction",
+        "author":"Michael Tanner",
+        "location": "NYC",
+        "date": "2/2021"
     }
 ]
