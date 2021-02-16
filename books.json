@@ -2392,11 +2392,18 @@
         "author":"Roger Williams",
         "location": "NYC",
         "date": "2/2021"
-    }},
+    },
     {       
         "quote": "Through the present moment I see the glimmers of liberation embedded in the wok we must do at this time. Because what else can we do?",
         "book":"Blockchain Chicken Farm",
         "author":"Xiaowei Wang",
+        "location": "NYC",
+        "date": "2/2021"
+    },
+    {       
+        "quote": "It was the worst thing ever. Nothing mattered. Not pain, not accomplishments, not anything.",
+        "book":"The Metamorphosis of Prime Intellect",
+        "author":"Roger Williams",
         "location": "NYC",
         "date": "2/2021"
     }
