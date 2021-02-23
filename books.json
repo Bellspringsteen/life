@@ -2406,5 +2406,12 @@
         "author":"Roger Williams",
         "location": "NYC",
         "date": "2/2021"
+    },
+    {       
+        "quote": "Happiness, free for everyone,  and let no one be forgotten",
+        "book":"Roadside Picnic",
+        "author":"Arkady and Boris Strugatsky",
+        "location": "NYC",
+        "date": "2/2021"
     }
 ]
