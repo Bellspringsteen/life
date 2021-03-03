@@ -2413,5 +2413,12 @@
         "author":"Arkady and Boris Strugatsky",
         "location": "NYC",
         "date": "2/2021"
+    },
+    {       
+        "quote": "The proofs of practicality and efficiency have been made, the materials required are inexpensive and available just about anywhere in the world, and the construction techniques are simple and powerful.",
+        "book":"The Fabric Formwork Book: Methods for Building New Architectural and Structural Forms in Concrete",
+        "author":"Mark West",
+        "location": "NYC",
+        "date": "3/2021"
     }
 ]
