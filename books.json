@@ -2420,5 +2420,13 @@
         "author":"Mark West",
         "location": "NYC",
         "date": "3/2021"
+    },
+    {       
+        "quote": "Formwork is the single largest cost component of a concrete build-ing’s structural frame.",
+        "book":"Formwork for Concrete Structures",
+        "author":"Oberlender and Peurifoy",
+        "location": "NYC",
+        "date": "3/2021"
     }
+   
 ]
