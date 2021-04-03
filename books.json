@@ -2441,6 +2441,13 @@
         "author":"William Gibson",
         "location": "NYC",
         "date": "3/2021"
+    },
+    {       
+        "quote": "There is only one way of thinking that is capable of making progress,  or of surviving in the long run,  and that is the way of seeking good explanations through creativity and criticism. What lies ahead of us is in any case infinity. All we can choose is whether it is an infinity of ignorance or of knowledge, wrong or right, death or life.",
+        "book":"The Beginning of Infinity: Explanations That Transform the World",
+        "author":"David Deutsch",
+        "location": "NYC",
+        "date": "4/2021"
     }
    
 ]
