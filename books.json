@@ -2469,6 +2469,13 @@
         "author":"Bill Gates",
         "location": "NYC",
         "date": "4/2021"
+    },
+    {       
+        "quote": "Because we do not know how to talk to strangers, what do we do when things go awry with strangers? We blame the strangers.",
+        "book":"Talking to Strangers",
+        "author":"Malcolm Gladwell",
+        "location": "NYC",
+        "date": "4/2021"
     }
    
    
