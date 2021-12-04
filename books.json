@@ -2560,8 +2560,12 @@
         "author":"Kazuo Ishiguro",
         "location": "NYC",
         "date": "11/2021"
+    },
+    {       
+        "quote": "It stopped for a minute I swear, but then the sound and pictures came back on and for two more interminable months we lived.",
+        "book":"You shall know our velocity",
+        "author":"Dave Eggers",
+        "location": "NYC",
+        "date": "12/2021"
     }
-   
-   
-   
 ]
