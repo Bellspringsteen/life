@@ -2567,5 +2567,12 @@
         "author":"Dave Eggers",
         "location": "NYC",
         "date": "12/2021"
+    },
+    {       
+        "quote": "What about the building you see when you look up from this book? Go do something timely to it",
+        "book":"How Buildings Learn: What Happens After They are Built",
+        "author":"Stewart Brand",
+        "location": "NYC",
+        "date": "12/2021"
     }
 ]
