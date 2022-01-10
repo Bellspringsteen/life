@@ -2574,5 +2574,12 @@
         "author":"Stewart Brand",
         "location": "NYC",
         "date": "12/2021"
+    },
+    {       
+        "quote": "Somewhere down there the old spider might still sleep, waiting for his lady lost.... and begging on his greatest Lurk of all.So high, so low, so many things to know.",
+        "book":"A Deepness in the Sky",
+        "author":"Vernor Vinge",
+        "location": "NYC",
+        "date": "1/2022"
     }
 ]
