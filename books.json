@@ -2602,5 +2602,12 @@
         "author":"Saul Griffith",
         "location": "NYC",
         "date": "2/2022"
+    },
+    {       
+        "quote": "And there's no telling how far you might be able to get, what you might discover, or who you might meet when you get there",
+        "book":"Ready Player Two",
+        "author":"Ernest Cline",
+        "location": "NYC",
+        "date": "2/2022"
     }
 ]
