@@ -2609,5 +2609,12 @@
         "author":"Ernest Cline",
         "location": "NYC",
         "date": "2/2022"
+    },
+    {       
+        "quote": "This country is a mess, but it's still one of the only outfits that can pull a fleet of lead-lined bulldozers out of its ass on short notice.",
+        "book":"Termination Shock",
+        "author":"Neal Stephenson",
+        "location": "NYC",
+        "date": "3/2022"
     }
 ]
