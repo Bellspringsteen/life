@@ -2616,5 +2616,12 @@
         "author":"Neal Stephenson",
         "location": "NYC",
         "date": "3/2022"
+    },
+    {       
+        "quote": "The five of clubs, Dom DeLuise. Hula-hooping. Of course.",
+        "book":"Moonwalking with Einstein: the art and science of remembering everything",
+        "author":"Joshua Foer",
+        "location": "NYC",
+        "date": "3/2022"
     }
 ]
