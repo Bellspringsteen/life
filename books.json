@@ -2623,5 +2623,12 @@
         "author":"Joshua Foer",
         "location": "NYC",
         "date": "3/2022"
+    },
+    {       
+        "quote": "I saw myself grow too old for the dream. Saw rhe Giants moved across a continent, and finally they tore down the Polo Grounds in 1964.",
+        "book":"Shoeless Joe",
+        "author":"W P Kinsella",
+        "location": "NYC",
+        "date": "4/2022"
     }
 ]
