@@ -2637,5 +2637,12 @@
         "author":"Paul Theroux",
         "location": "NYC",
         "date": "4/2022"
+    },
+    {       
+        "quote": "We hope that you will do whatever you can to help with one of the most exciting and consequential endeavors in human history.",
+        "book":"The future of fusion energy",
+        "author":"Jason Parisi and Justin Ball",
+        "location": "NYC",
+        "date": "5/2022"
     }
 ]
