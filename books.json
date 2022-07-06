@@ -2651,6 +2651,21 @@
         "author":"Vaclav Smil",
         "location": "NYC",
         "date": "6/2022"
+    },
+    {       
+        "quote": "Physical limitations contrain possible operations. Thus, a large peg cannot fit into a small hole.",
+        "book":"The design of everyday things",
+        "author":"Don Norman",
+        "status":"31%",
+        "location": "NYC",
+        "date": "7/2022"
+    },
+    {       
+        "quote": "Some men dream of being a bird. I dream of being a goat.",
+        "book":"Goatman: how I took a holiday from being human",
+        "author":"Thomas Thwaites",
+        "location": "NYC",
+        "date": "7/2022"
     }
 
 
