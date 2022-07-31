@@ -2680,7 +2680,12 @@
         "author":"Jean Lee Latham",
         "location": "NYC",
         "date": "7/2022"
+    },
+    {       
+        "quote": "He was among the most productive, honored minds of his era, and yet he gave the appearance the he would chuck it all overboard for the chance to tinker in his gadget room.",
+        "book":"A Mind At Play",
+        "author":"Jimmy Soni",
+        "location": "NYC",
+        "date": "7/2022"
     }
-
-
 ]
