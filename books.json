@@ -2687,5 +2687,12 @@
         "author":"Jimmy Soni",
         "location": "NYC",
         "date": "7/2022"
+    },
+    {       
+        "quote": "the man, the strange contradictory and controversial person; childish and good-humored, sophisticated  and savage, brilliantly clever yet with a very limited,  almost primitive lack of ability to handle his emotions - an enigma of nature that will have to remain unresolved.",
+        "book":"The Man From the Future",
+        "author":"Ananyo Bhattacharya",
+        "location": "NYC",
+        "date": "8/2022"
     }
 ]
