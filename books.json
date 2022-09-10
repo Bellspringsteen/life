@@ -2701,5 +2701,12 @@
         "author":"Arthur C Clark",
         "location": "NYC",
         "date": "9/2022"
+    },
+    {       
+        "quote": "All in all, CES was a blast. It was, like, my first public taste of life.",
+        "book":"The making of prince of Persia",
+        "author":"Jordan Mechner",
+        "location": "NYC",
+        "date": "9/2022"
     }
 ]
