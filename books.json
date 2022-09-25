@@ -2715,5 +2715,12 @@
         "author":"Isabel Wilkerson",
         "location": "NYC",
         "date": "9/2022"
+    },
+    {       
+        "quote": "I knew nothing, and I persisted in the faith that the time of cruel miracles was not past.",
+        "book":"Solaris",
+        "author":"Stanislaw Lem",
+        "location": "NYC",
+        "date": "9/2022"
     }
 ]
