@@ -2722,5 +2722,12 @@
         "author":"Stanislaw Lem",
         "location": "NYC",
         "date": "9/2022"
+    },
+    {       
+        "quote": "For however inhospitable the wind, from this vantage point Manhattan was so improbable,  so wonderful, so obviously full of promise- that you wanted to approach it for the rest of your life without ever quite arriving.",
+        "book":"Rules of civility",
+        "author":"Amor Towles",
+        "location": "NYC",
+        "date": "10/2022"
     }
 ]
