@@ -2736,5 +2736,12 @@
         "author":"Alfred Bester",
         "location": "NYC",
         "date": "10/2022"
+    },
+    {       
+        "quote": "For all our speed and viraciousness, our changeable spark and flash, we would be, at last count, not an especially interesting species.",
+        "book":"The wizard and the prophet",
+        "author":"Charles Mann",
+        "location": "NYC",
+        "date": "11/2022"
     }
 ]
