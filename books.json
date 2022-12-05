@@ -2743,5 +2743,12 @@
         "author":"Charles Mann",
         "location": "NYC",
         "date": "11/2022"
+    },
+    {       
+        "quote": "Leaving the burger Boyz to sit down once again in the plastic fold-out chairs and wonder how long before the flames flickered out.",
+        "book":"The Short and Tragic Life of Robert Peace: A Brilliant Young Man Who Left Newark for the Ivy League",
+        "author":"Jeff Hobbs",
+        "location": "NYC",
+        "date": "12/2022"
     }
 ]
