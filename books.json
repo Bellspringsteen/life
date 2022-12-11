@@ -2750,5 +2750,12 @@
         "author":"Jeff Hobbs",
         "location": "NYC",
         "date": "12/2022"
+    },
+    {       
+        "quote": "The most credible explanation, as usual, is simple-minded populism.",
+        "book":"How evil are politicians? Essays on Demagoguery",
+        "author":"Bryan Caplan",
+        "location": "NYC",
+        "date": "12/2022"
     }
 ]
