@@ -2757,5 +2757,12 @@
         "author":"Bryan Caplan",
         "location": "NYC",
         "date": "12/2022"
+    },
+    {       
+        "quote": "Make the other person happy about doing the thing you suggest",
+        "book":"How to win friends and influence people",
+        "author":"Dale Carnegie",
+        "location": "Austin",
+        "date": "12/2022"
     }
 ]
