@@ -2764,5 +2764,12 @@
         "author":"Dale Carnegie",
         "location": "Austin",
         "date": "12/2022"
+    },
+    {       
+        "quote": "Leland closed his eyes. Now, and for a little while longer, he was going to think of flying. ",
+        "book":"Nothing Lasts Forever( the book that inspired the movie Die Hard)",
+        "author":"Roderick Thorp",
+        "location": "Austin",
+        "date": "12/2022"
     }
 ]
