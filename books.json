@@ -2771,5 +2771,12 @@
         "author":"Roderick Thorp",
         "location": "Austin",
         "date": "12/2022"
+    },
+    {       
+        "quote": "But our own unfathomability is a lucky thing for us! Just as we might shrivel up and die if we could truly grasp how miniscule we are in comparison to the vast universe we live in, so we might also explode in fear and shock if we were privy to the unimaginably frantic goings-on inside our bodies. We live in a state of blessed ignorance, but it is also a state of marvelous enlightenment, for it involves floating in a universe of mid-level categories of our own creation - categories that function incredibly well as survival enhancers.",
+        "book":"I am a strange loop",
+        "author":"Douglas Hofstadter",
+        "location": "NYC",
+        "date": "2/2023"
     }
 ]
