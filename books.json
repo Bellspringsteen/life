@@ -2799,5 +2799,12 @@
         "author":"Graham Greene",
         "location": "Vienna",
         "date": "2/2023"
+    },
+    {       
+        "quote": "I would have the engineers join in the drinking and the dancing.",
+        "book":"The existential pleasures of engineering",
+        "author":"Samuel Florman",
+        "location": "NYC",
+        "date": "2/2023"
     }
 ]
