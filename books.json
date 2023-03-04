@@ -2806,5 +2806,12 @@
         "author":"Samuel Florman",
         "location": "NYC",
         "date": "2/2023"
+    },
+    {       
+        "quote": "I haven't seen her again, but I know I will. Soon.",
+        "book":"Old Man's War",
+        "author":"John Scalzi",
+        "location": "NYC",
+        "date": "3/2023"
     }
 ]
