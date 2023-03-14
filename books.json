@@ -2813,5 +2813,12 @@
         "author":"John Scalzi",
         "location": "NYC",
         "date": "3/2023"
+    },
+    {       
+        "quote": "When we have a fact-based worldview, we can see that the world is not as bad as it seems - and we can see what we have to do to keep making it better.",
+        "book":"Factfulness: ten reasons we are wrong about the world and why things are better than you think",
+        "author":"Hans Rosling",
+        "location": "NYC",
+        "date": "3/2023"
     }
 ]
