@@ -2820,5 +2820,12 @@
         "author":"Hans Rosling",
         "location": "NYC",
         "date": "3/2023"
+    },
+    {       
+        "quote": "I start to compile in my head a compilation tape for her, something that's full of stuff she's heard of, and full of stuff she'd play. Tonight, for the first time ever, I can sort of see how it's done.",
+        "book":"High Fidelity",
+        "author":"Nick Hornby",
+        "location": "NYC",
+        "date": "3/2023"
     }
 ]
