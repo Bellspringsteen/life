@@ -2827,5 +2827,12 @@
         "author":"Nick Hornby",
         "location": "NYC",
         "date": "3/2023"
+    },
+    {       
+        "quote": "He has no interest in reviewing parents or talking to Besso or thinking of physics. He feels empty, and he stares without interest at the tiny black speck and the Alps.",
+        "book":"Einstein's Dreams",
+        "author":"Alan Lightman",
+        "location": "NYC",
+        "date": "3/2023"
     }
 ]
