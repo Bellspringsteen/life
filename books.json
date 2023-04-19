@@ -2834,5 +2834,12 @@
         "author":"Alan Lightman",
         "location": "NYC",
         "date": "3/2023"
+    },
+    {       
+        "quote": "In a place far away from anyone or anywhere, I drifted off for a moment.",
+        "book":"The wind up bird chronicles",
+        "author":"Haruki Murakami",
+        "location": "NYC",
+        "date": "4/2023"
     }
 ]
