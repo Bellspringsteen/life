@@ -2843,7 +2843,7 @@
         "date": "4/2023"
     },
     {       
-        "status": False,
+        "status":"21%",
         "book":"A divine language",
         "author":" Alec Wilkinson",
         "location": "NYC",
