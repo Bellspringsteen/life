@@ -2848,5 +2848,12 @@
         "author":" Alec Wilkinson",
         "location": "NYC",
         "date": "4/2023"
+    },
+    {       
+        "quote":"Is it not fair to ask the technologist, not only to provide artefacts which work, but also to provide beauty, even in common street, and above all, to provide fun.",
+        "book":"Structures: or why things don't fall down",
+        "author":" J.E. Gordon",
+        "location": "NYC",
+        "date": "5/2023"
     }
 ]
