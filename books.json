@@ -2883,5 +2883,26 @@
         "author":"Patrick Leigh Fermor",
         "location": "NYC",
         "date": "7/2023"
+    },
+    {       
+        "quote":"Working together in an intentional way, it is possible to make our places stronger financially while also improving the lives of people.",
+        "book":"Strong Towns",
+        "author":"Charles Marohn",
+        "location": "MV",
+        "date": "7/2023"
+    },
+    {       
+        "quote":"It is a fine thing to be a walking encyclopedia of philosophy, but if you happen to have no liking for philosophy, and to have a like for the natural history of street-cries, much better leave philosophy alone, and take to street cries.",
+        "book":"How to live on 24 hours a day",
+        "author":"Arnold Bennett",
+        "location": "MV",
+        "date": "7/2023"
+    },
+    {       
+        "quote":"I don't want to have to retire. This game is just too damn interesting. It's such a a beautiful game.",
+        "book":"The biggest bluff",
+        "author":"Maria Konnikova",
+        "location": "MV",
+        "date": "7/2023"
     }
 ]
