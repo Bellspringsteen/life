@@ -2903,6 +2903,14 @@
         "book":"The biggest bluff",
         "author":"Maria Konnikova",
         "location": "MV",
-        "date": "7/2023"
+        "date": "7/2023"    
+    },
+    {       
+        "quote":"Yet tribunals of accountability and reparations were convened, boundaries and sovereignty were restored, and ancient lands reclaimed. The work of the world went on.",
+        "book":"Here and There",
+        "author":"Elisa Barnes",
+        "location": "NYC",
+        "date": "9/2023"    
     }
+    
 ]
