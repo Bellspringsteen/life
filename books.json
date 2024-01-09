@@ -2974,6 +2974,13 @@
         "author":"Walter Isaacson",
         "location": "NYC",
         "date": "1/2023"    
+    },
+    {       
+        "quote":"Is this a duck and a bunny, no. This is a duck and a bunny.",
+        "book":"How to Live",
+        "author":"Derek sivers",
+        "location": "NYC",
+        "date": "1/2023"    
     }
     
 ]
