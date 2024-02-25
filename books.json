@@ -2973,21 +2973,28 @@
         "book":"Elon Musk",
         "author":"Walter Isaacson",
         "location": "NYC",
-        "date": "1/2023"    
+        "date": "1/2024"    
     },
     {       
         "quote":"Is this a duck and a bunny, no. This is a duck and a bunny.",
         "book":"How to Live",
         "author":"Derek sivers",
         "location": "NYC",
-        "date": "1/2023"    
+        "date": "1/2024"    
     },
     {       
         "quote":"Right back without a flicker, Willart Thorp said 'what this university has long needed is deeper insight into contemporary communications'",
         "book":"Tabula Rasa",
         "author":"John McPhee",
         "location": "NYC",
-        "date": "1/2023"    
+        "date": "1/2024"    
+    },
+    {       
+        "quote":"You finally fall asleep. And when you wake up, it's true. You are part of a brand new world.",
+        "book":"Kafka on the shore",
+        "author":"Haruki Murakami",
+        "location": "NYC",
+        "date": "2/2024"    
     }
     
 ]
