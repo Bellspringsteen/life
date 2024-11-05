@@ -3100,6 +3100,13 @@
         "author":"Kim Stanley Robinson",
         "location": "NYC",
         "date": "11/2024"    
+    },
+    {       
+        "quote":"Quantum mechanics maintains ite perilous but accurate existence.",
+        "book":"Six Easy Pieces",
+        "author":"Richard P. Feynman",
+        "location": "NYC",
+        "date": "11/2024"    
     }
     
 ]
